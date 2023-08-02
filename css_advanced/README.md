@@ -11,4 +11,4 @@
 
 - I will make something look like this:
 
-<img src="./aa.jpg">
+<img src="./images/aa.jpg">
