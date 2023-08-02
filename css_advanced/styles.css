@@ -132,3 +132,63 @@ body {
     line-height: 1.5rem;
     width: 9rem;
 }
+
+
+/* Quote Section */
+.quote {
+    background-color: #C271FF;
+    width: 102%;
+    height: 24.5rem;
+    position: relative;
+    top: 6.15rem;
+    left: -1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote-div {
+    display: inline-flex;
+}
+
+.quote-div img {
+    border-radius: 50%;
+    width: 12rem;
+    height: 12rem;
+    margin-top: 1rem;
+}
+
+.quote-text{
+    width: 51rem;
+    height: 9.875rem;
+    flex-shrink: 0;
+}
+
+.quote-text-1 {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.1rem;
+}
+
+.quote-text-2 {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 1.375rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 2.1rem;
+}
+
+.quote-text-3 {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 1.375rem;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 2.1rem;
+}
+
+/* ---------------- */
