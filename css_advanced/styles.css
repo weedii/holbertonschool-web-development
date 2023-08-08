@@ -508,3 +508,44 @@ body {
 }
 
 /* ---------------- */
+
+
+
+/* Footer */
+
+.footer {
+    background-color: #071629;
+    width: 102%;
+    position: relative;
+    top: 6rem;
+    left: -1rem;
+    height: 15.5625rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-div {
+    display: flex;
+    flex-direction: row;
+    gap: 55rem;
+}
+
+.logo-footer {
+    width: 10rem;
+    height: 2rem;
+}
+
+.footer p {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 0.75rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+    bottom: 0;
+}
+
+/* ---------------- */
