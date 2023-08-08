@@ -194,8 +194,8 @@ body {
 /* ---------------- */
 
 
-/* Videos Section */
 
+/* Videos Section */
 
 .videos {
     background: #FFF;
@@ -343,6 +343,117 @@ body {
     font-style: normal;
     font-weight: 600;
     line-height: 1.6875rem;
+}
+
+/* ---------------- */
+
+
+
+/* Membership Section */
+
+.membership {
+    background-color: #071629;
+    margin-top: -1.23rem;
+    width: 102%;
+    position: relative;
+    top: 4.9rem;
+    left: -1rem;
+    height: 32rem;
+}
+
+.membership h1 span {
+    color: #C271FF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.membership h1 {
+    color: #FFF;
+    font-family: Source Sans Pro;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    padding-top: 4.38rem;
+}
+
+.membership-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 1.81rem;
+    padding-top: 3.62rem;
+}
+
+.membership-div-row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 16.0625rem;
+    height: 9.5625rem;
+}
+
+.membership-div-row img {
+    width: 2.72913rem;
+    height: 2.20956rem;
+}
+
+.membership-div-row h2 {
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 1.625rem;
+}
+
+.membership-div-row p {
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.625rem;
+    width: 13.25rem;
+}
+
+.membership-btn {
+    width: 10.125rem;
+    height: 2.75rem;
+    border-radius: 1.375rem;
+    background: #C271FF;
+    color: #FFF;
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 0.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    position: relative;
+    left: 43.5rem;
+    top: 5.5rem;
+    bottom: 4.06rem;
+}
+
+/* ---------------- */
+
+
+
+/* FAQ Section */
+
+.FAQ {
+    margin-top: 10rem;
+    background-color: red;
 }
 
 /* ---------------- */
